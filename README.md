@@ -1,6 +1,6 @@
 # Awesome Computational Thermo Fluids [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources, libraries, tools, and tips for Computational Thermo Fluids (CTF) programming, designed to assist researchers, engineers, and developers in the field. Whether you are simulating fluid dynamics, solving the Navier-Stokes equations, or studying thermal transfer in fluids, this list will help you navigate through some of the best tools out there.
+A curated list of awesome resources, libraries, tools, and tips for Computational Thermo Fluids (CTF) programming. This list will help you navigate through some of the best tools out there.
 
 ---
 
