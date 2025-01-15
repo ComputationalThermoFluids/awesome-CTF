@@ -1,11 +1,10 @@
 # Awesome Computational Thermo Fluids [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources, libraries, tools, and tips for Computational Thermo Fluids (CTF) programming. This list will help you navigate through some of the best tools out there.
+A curated list of awesome resources, libraries, tools, and tips for Computational Thermo Fluids (CTF) programming.
 
 ---
 
 ## Contents
-- [Languages & Frameworks](#languages--frameworks)
 - [Libraries & Tools](#libraries--tools)
   - [Julia Libraries](#julia-libraries)
   - [Python Libraries](#python-libraries)
@@ -13,18 +12,6 @@ A curated list of awesome resources, libraries, tools, and tips for Computationa
 - [Courses & Tutorials](#courses--tutorials)
 - [Papers & Articles](#papers--articles)
 - [Miscellaneous Resources](#miscellaneous-resources)
-
----
-
-## Languages & Frameworks
-
-Here are some of the most popular programming languages and frameworks commonly used in the field of Computational Thermo Fluids.
-
-- **Julia**: A high-performance language for technical computing, combining ease of use and speed.
-- **Python**: Popular for its readability and the huge number of scientific libraries.
-- **C++**: Known for performance, commonly used in large-scale simulations and high-performance computing (HPC).
-- **Fortran**: Still widely used in legacy and some modern thermo-fluids computational frameworks.
-- **MATLAB**: Often used in academia and research for prototyping thermo-fluids algorithms.
 
 ---
 
